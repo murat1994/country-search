@@ -23,8 +23,8 @@ class Country extends React.Component {
         <h2>{country.nativeName}</h2>
         <hr />
         <div className="card-columns">
-          <div className="card">
-            <div className="card-body">
+          <div className="card" >
+            <div className="card-body ">
               <dl className="row">
                 <dt className="col-sm-4">Başkent:</dt>
                 <dd className="col-sm-8">{country.capital}</dd>

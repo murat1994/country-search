@@ -47,7 +47,7 @@ class CountryList extends React.Component {
        return (
            <div>
         <input type="text" name='search' className="form-control mb-3" onChange={this.searchHandler} placeholder="Ülke Adı Giriniz"></input>
-           <div className="card-columns" >
+           <div className="card-columns " >
                {CountryList}
                </div>
            </div>

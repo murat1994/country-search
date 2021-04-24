@@ -9,8 +9,9 @@ const About =(props)=> {
     // },2000);
         return (
             <div>
-                <h3>Hakkında</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim aliquam nemo minus alias tempore excepturi, minima quam magnam cumque debitis aspernatur quasi. A quidem earum pariatur eligendi veniam possimus vel?</p>
+                <h3>Country Flag's</h3>
+                <br/>
+                <img src ="https://i0.wp.com/parlakjurnal.com/wp-content/uploads/2017/06/bayrak.gif?fit=1256%2C715&ssl=1" />
             </div>
         )
     }
